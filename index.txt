@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the lastest udate and updated for feature2
+=======
+i have made changes for feature1
+>>>>>>> 3649b4f09d6cfae21ee3b0c706762470aa3427c1
